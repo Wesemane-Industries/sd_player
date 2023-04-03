@@ -8,3 +8,6 @@
 
 # audio files
 *.wav
+
+# kicad
+*backups*
