@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dash>
+    <General isLocked="0"/>
+    <Widget type="1">
+        <WindowGeometry x="0" y="0" width="1142" height="804"/>
+        <id>P0</id>
+        <title>Button Test Plot</title>
+        <xname></xname>
+        <yname></yname>
+        <type>0</type>
+        <buffer>500</buffer>
+        <refresh_rate>30</refresh_rate>
+        <animation>3</animation>
+        <theme>1</theme>
+        <antialiasing>1</antialiasing>
+        <legend_enabled>1</legend_enabled>
+        <legend_position>2</legend_position>
+        <legend_hpos>150</legend_hpos>
+        <legend_vpos>150</legend_vpos>
+        <legend_width>150</legend_width>
+        <legend_height>75</legend_height>
+        <legend_font>Ubuntu</legend_font>
+        <legend_bold>0</legend_bold>
+        <legend_italic>0</legend_italic>
+        <legend_underline>0</legend_underline>
+        <legend_font_size>8.25</legend_font_size>
+        <auto_scale_value_axis_x>1</auto_scale_value_axis_x>
+        <min_scale_value_axis_x>-200</min_scale_value_axis_x>
+        <max_scale_value_axis_x>200</max_scale_value_axis_x>
+        <auto_scale_value_axis_y>0</auto_scale_value_axis_y>
+        <min_scale_value_axis_y>-100</min_scale_value_axis_y>
+        <max_scale_value_axis_y>1100</max_scale_value_axis_y>
+        <tick_count_x_axis>5</tick_count_x_axis>
+        <tick_count_y_axis>5</tick_count_y_axis>
+        <auto_write_file></auto_write_file>
+        <auto_write_seperator>;</auto_write_seperator>
+    </Widget>
+</Dash>
