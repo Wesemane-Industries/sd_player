@@ -11,3 +11,6 @@
 
 # kicad
 *backups*
+
+# mac
+**.DS_Store
